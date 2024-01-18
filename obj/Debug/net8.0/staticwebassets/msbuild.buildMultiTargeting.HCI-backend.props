@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/HCI-backend.props" />
+</Project>
